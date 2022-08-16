@@ -1,0 +1,4 @@
+beautifulsoup4==4.11.1
+mcstatus==9.3.0
+requests==2.27.1
+tqdm==4.63.1
